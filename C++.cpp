@@ -9,7 +9,7 @@ int main()
 	cin >> n;
 	double a = n * 23000;
 
-	cout << "\nSo tien sau khi chuyen sang dang VND la: " << a;
+	cout << "\nSo tien sau khi chuyen sang dang VND la: " << a << " VND ";
 	_getch();
 	return 0;
 }
